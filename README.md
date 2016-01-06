@@ -1,2 +1,2 @@
-# PowerBiDeveloperSamples
-A set of sample projects which demonstrate how to extend the Power BI environment using custom development
+# Power BI Developer Samples
+A set of sample projects which demonstrate how to extend the Power BI environment using custom development.
