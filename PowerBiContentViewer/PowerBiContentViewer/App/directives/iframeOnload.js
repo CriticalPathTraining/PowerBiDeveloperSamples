@@ -2,6 +2,8 @@
 
 (function () {
 
+  var app = angular.module('PowerBIContentViewer');
+
   app.directive('iframeOnload', [function () {
     return {
       scope: {
